@@ -14,3 +14,4 @@ services:
 
 networks:
   proxy_network:
+    external: true
